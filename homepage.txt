@@ -1,0 +1,7 @@
+HELLO MY NAME IS SIDDHARTH JAIN
+I AM IN g25
+
+mkdir 
+cd 
+ls -la
+
